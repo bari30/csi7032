@@ -1,33 +1,19 @@
-Airbnb NY listings Data Analysis.
-------------
-Through Airbnb NY data we will conduct an exploratory analysis and offer insights into that data. For this we will use the data behind the website Inside Airbnb come from publicly available information on the Airbnb website available here, containing advertisements for accommodation in NY until 2020.
+Hello!👋 Welcome to my home on GitHub for my tutorials and experiments in data science, machine learning, and other related stuff.
+Below is a list of everything I've published so far in this repository.
 
-Dependencies
-------------
+## [Building a Matplotlib to Plotly chart converter](https://nbviewer.jupyter.org/github/shaildeliwala/experiments/blob/master/Matplotlib%20to%20Plotly%20Chart%20Conversion.ipynb)
+An experiment in converting Matplotlib bar charts and scatter plots created using pandas to Plotly plots.
 
-- Python >= v 3.6.x
+## [Airbnb data analysis and predictions](https://nbviewer.jupyter.org/github/shaildeliwala/experiments/blob/master/Airbnb%20data%20analysis%20and%20predictions.ipynb)
+EDA and predictive experiments on Airbnb data of New York City. In this notebook, I have treated both price prediction and number-of-guests prediction problems in two ways: as a regression problem and as a classification problem. There is a comparison of both approaches.
 
-Installation
-------------
+## [Streamlit 101: An in-depth introduction](https://github.com/shaildeliwala/experiments/blob/master/streamlit.py)
+[Streamlit](https://www.streamlit.io) is an awesome new tool that allows engineers to quickly build highly interactive web applications around their data, machine learning models, and pretty much anything. This tutorial is a deep dive into Streamlit with Airbnb NYC listings data.
 
-- Download or clone this repo:
+More stuff coming up soon! 😎
 
-  `> git@github.com:toniesteves/ny-airbnb-streamlit-app.git`
+Watch this repository for more tutorials. Below are links to my profile on other platforms.
+1. [Kaggle](https://www.kaggle.com/shaildeliwala)
+2. [Medium](https://www.medium.com/@shaildeliwala)
 
-- Create an environment with conda or pipe:
-
-  `> conda create --name my-env`
-
-- Go to root directory and run:
-
-  `> cd ny-airbnb-streamlit-app`
-
-  `> pip -r install requirements.txt`
-
-
-Running on localhost (console)
-------------
-
-- On root directory run:
-
-- `> streamlit run app.py` (development environment)
+Also check out [delbot](https://github.com/shaildeliwala/delbot), my tutorial for building an NLP-based, voice-driven bot from scratch in Python.
